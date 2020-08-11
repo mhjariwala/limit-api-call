@@ -1,0 +1,9 @@
+.result-container {
+    margin-top: 10px;
+}
+
+.user-detail {
+    border: thin solid lightgray;
+    padding: 10px;
+    margin: 5px;
+}

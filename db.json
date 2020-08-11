@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Navnit",
+      "last_name": "kapadia"
+    },
+    {
+      "id": 2,
+      "first_name": "Neel",
+      "last_name": "Patel"
+    },
+    {
+      "id": 3,
+      "first_name": "Nikunj",
+      "last_name": "Sutariya"
+    },
+    {
+      "id": 4,
+      "first_name": "Navnit",
+      "last_name": "Patel"
+    }
+  ]
+}
